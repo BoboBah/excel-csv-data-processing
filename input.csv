@@ -1,0 +1,8 @@
+name,email,age,country
+John,john@gmail.com,25,Senegal
+Mary,mary@gmail.com,31,Senegal
+John,john@gmail.com,25,Senegal
+Paul,,abc,Senegal
+Alice,alice@gmail.com,28,France
+Bob,bob@gmail.com,,Senegal
+David,david@gmail.com,45,Senegal
